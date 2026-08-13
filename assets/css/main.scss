@@ -39,3 +39,26 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Wide academic homepage */
+@media screen and (min-width: 1024px) {
+  #main,
+  .masthead__inner-wrap {
+    width: 90%;
+    max-width: none;
+  }
+
+  #main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .sidebar {
+    width: 230px;
+  }
+
+  .page {
+    width: calc(100% - 260px);
+    padding-right: 0;
+  }
+}
