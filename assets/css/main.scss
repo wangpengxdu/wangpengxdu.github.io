@@ -62,3 +62,27 @@
     padding-right: 0;
   }
 }
+
+/* Typography */
+.page__content p,
+.page__content li {
+  font-family: Cambria, Georgia, "Times New Roman", serif;
+  font-size: 17px;
+  line-height: 1.55;
+}
+
+.page__content h1 {
+  font-size: 28px;
+}
+
+.page__content h2 {
+  font-size: 23px;
+}
+
+.page__content h3 {
+  font-size: 19px;
+}
+
+.sidebar {
+  font-size: 14px;
+}
