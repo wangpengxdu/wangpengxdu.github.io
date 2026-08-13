@@ -21,7 +21,7 @@ repository               : "wangpengxdu/wangpengxdu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pengwang.png"
   name             : "Peng Wang"
   pronouns         : # example: "she/her"  
   bio              : "Peng Wang receives his PhD in 2023 from Xidian University. He is currently a postdoc at SUTD."
