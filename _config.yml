@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Peng Wang / Personal Homepage"
+title                    : "Homepage"
 title_separator          : "Dr"
 name                     : &name "Peng Wang"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "pengwang.png"
   name             : "Peng Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Peng Wang receives his PhD in 2023 from Xidian University. He is currently a postdoc at SUTD."
+  bio              : "SUTD."
   location         : "Singapore"
-  employer         : "Singapore University of Technology and Design"
+  employer         : #"Singapore University of Technology and Design"
   uri              : # URL
   email            : "peng_wang2@sutd.edu.sg" 
 
