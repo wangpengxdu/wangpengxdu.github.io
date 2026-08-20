@@ -18,6 +18,7 @@ Peng's research mainly focuses on using graph theory, combinatorial optimization
 
 ## News:
 
+- 2026.8: Our work **Hypercycle-level Resource Reservation** has been accepted by IEEE TCAD. 
 - 2026.7: Our work **OPSS** has been accepted by IEEE TMC.
 - 2026.5: We will deliver a tutorial named "[Towards Computation-Efficient NTN: Routing, Scheduling, Slicing and Federated Learning](https://www.ieee-icct.org/tutorial-1.html)" at IEEE ICCT 2026.
 - 2025.10: Our work **SFC-constrained Max Flow** has been accepted by IEEE TMC.
@@ -26,6 +27,7 @@ Peng's research mainly focuses on using graph theory, combinatorial optimization
 
 
 ## Journal:
+[TCAD'26] __Peng Wang*__, Suman Sourav, Binbin Chen,  Hongyan Li, Feng Wang, Fan Zhang, The Throughput Gain of Hypercycle-level Resource Reservation for Time-Triggered Communication, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 
 
 [TMC'26] __Peng Wang*__, Binbin Chen, Suman Sourav and Hongyan Li, One-Pass & Smart-Search: A Solver for Minimizing Data Delivery Time over Time-Varying Networks, in IEEE Transactions on Mobile Computing.
 
