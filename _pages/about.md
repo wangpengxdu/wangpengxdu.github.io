@@ -30,7 +30,7 @@ Peng's research mainly focuses on using graph theory, combinatorial optimization
 ## Journal:
 [* represents the corresponding author]
 
-[TMC'26] Kangjia Yu, __Peng Wang*__, Qimei Cui*,  Zengbao Zhu, Binbin Chen, Xiyu Zhao, Yanjun Wang, Xiaofeng Tao, Hybrid Proactive-Reactive Routing with Checkpoints for Robust Service Function Chains in Satellite Networks, in IEEE Transactions on Mobile Computing. 
+[TMC'26] Kangjia Yu, **Peng Wang**\*, Qimei Cui\*,  Zengbao Zhu, Binbin Chen, Xiyu Zhao, Yanjun Wang, Xiaofeng Tao, Hybrid Proactive-Reactive Routing with Checkpoints for Robust Service Function Chains in Satellite Networks, in IEEE Transactions on Mobile Computing. 
 
 [TCAD'26] __Peng Wang*__, Suman Sourav, Binbin Chen,  Hongyan Li, Feng Wang, Fan Zhang, The Throughput Gain of Hypercycle-level Resource Reservation for Time-Triggered Communication, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. 
 
