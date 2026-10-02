@@ -40,11 +40,11 @@ Peng's research mainly focuses on using graph theory, combinatorial optimization
 
 [JIoT'25] __Peng Wang*__, Suman Sourav, Binbin Chen and Hongyan Li, "FlexSatIoE: Flexible Routing and Buffering for Satellite Networks Enabled Internet of Everything Applications," in IEEE Internet of Things Journal, doi: 10.1109/JIOT.2025.3594890.
 
-[TWC'22] __Peng Wang__, Hongyan Li, Binbin Chen, Shun Zhang, Enhancing earth observation throughput using inter-satellite communication. To appear in IEEE Transactions on Wireless Communications. 
+[TWC'22] __Peng Wang__, Hongyan Li\*, Binbin Chen, Shun Zhang, Enhancing earth observation throughput using inter-satellite communication. To appear in IEEE Transactions on Wireless Communications. 
 
 [SCIS'22]Jiandong Li, __Peng Wang*__, Hongyan Li, Keyi Shi, Enhanced time expanded graph for space information networks modeling[J]. To appear in Science China: Information Sciences.
 
-[WCL'18] __Peng Wang__,  Xiushe Zhang, Shun Zhang, Hongyan Li, Tao Zhang. Time-expanded graph-based resource allocation over the satellite networks[J]. IEEE Wireless Communications Letters, 2018, 8(2): 360-363. 
+[WCL'18] __Peng Wang__,  Xiushe Zhang\*, Shun Zhang, Hongyan Li, Tao Zhang. Time-expanded graph-based resource allocation over the satellite networks[J]. IEEE Wireless Communications Letters, 2018, 8(2): 360-363. 
 
 [TNSM'25] Yaoxu He, Hongyan Li* and __Peng Wang__, "Enhancing Throughput for TTEthernet via Co-Optimizing Routing and Scheduling: An Online Time-Varying Graph-Based Method," in IEEE Transactions on Network and Service Management, vol. 22, no. 5, pp. 4933-4949, Oct. 2025 
 
