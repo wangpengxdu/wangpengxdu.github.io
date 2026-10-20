@@ -18,6 +18,7 @@ Peng's research mainly focuses on using graph theory, combinatorial optimization
 
 ## News:
 
+- 2026.10: I receive the **Young Scholar Award** presented at IEEE ICCT 2026. 
 - 2026.10: Mentored work **Hybrid Proactive-Reactive Routing for SFC** has been accepted by IEEE TMC. 
 - 2026.8: Our work **Hypercycle-level Resource Reservation** has been accepted by IEEE TCAD. 
 - 2026.7: Our work **OPSS** has been accepted by IEEE TMC.
@@ -76,5 +77,10 @@ Peng's research mainly focuses on using graph theory, combinatorial optimization
 - I serve as a TPC member of IEEE VTC' 25, VTC'26, GLOBECOM'26.
 - I serve as a reviewer of IEEE TMC, TWC, TNSE, TNSM, TVT, TCCN, OJ-COMS, TITS, IoTJ, Communications Magazine, 
 - I serve as a reviewer of  Elsevier Computer Networks and Ad hoc Networks.
+
+## Honors & Awards:
+
+- **Young Scholar Award**, IEEE ICCT 2026.
+- **Outstanding PhD Thesis Award**, Xidian University
 
 
