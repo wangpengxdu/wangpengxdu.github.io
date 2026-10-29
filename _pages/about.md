@@ -84,3 +84,10 @@ Peng's research mainly focuses on using graph theory, combinatorial optimization
 - **Outstanding PhD Thesis Award**, Xidian University
 
 
+## Talks:
+
+-  "A fast solver for minimizing data delivery time over time varying networks",  SUTD ESD seminar, 2026.10.28, hosted by Prof. Xingran Chen.
+-  "Time-varying Graph Based Routing and Scheduling for Computing-Efficient NTN", IEEE ICCT 2026 Tutorial, 2026.10.16.
+-  "时变网络中的资源耦合建模与高效组网方法", Jinan University, 2026.6, hosted by Prof Lin Cui.  
+
+
