@@ -70,13 +70,12 @@ Peng's research mainly focuses on using graph theory, combinatorial optimization
 
 
 ## Academic Services:
-
-- I serve as a TPC Co-chair of ICC 2026 workshop "WS19: Open, Programmable and AI-Native Radio Access Network: Key Techniques, Algorithms, and Implementation ", welcome to [submit](https://icc2026.ieee-icc.org/workshop/ws19-open-programmable-and-ai-native-radio-access-network-key-techniques-algorithms-and) your paper.
-- We are pleased to announce a Special Issue entitled "Advances in Routing and Scheduling Technology for Data Communications" in MDPI Network. For detailed information and submission guidelines, can go to [website](https://www.mdpi.com/journal/network/special_issues/2C0AX24Y90). 
-- I serve as a reviewer of IEEE ICNP, ICC, WCNC.  
-- I serve as a TPC member of IEEE VTC' 25, VTC'26, GLOBECOM'26.
-- I serve as a reviewer of IEEE TMC, TWC, TNSE, TNSM, TVT, TCCN, OJ-COMS, TITS, IoTJ, Communications Magazine, 
-- I serve as a reviewer of  Elsevier Computer Networks and Ad hoc Networks.
+- **Youth Editor**: Journal on Communications (Chinese), Space-Integrated-Ground Information Networks (Chinese);
+- **TPC Co-chair**: ICC 2026 workshop WS19;
+- **Guest Editor**: MDPI Electronics, MDPI Network;
+- TPC Member: IEEE VTC' 25, VTC'26, GLOBECOM'26;
+- Conference Reviewer: IEEE ICNP, ICC, WCNC;
+- Journal Reviewer: IEEE TMC, TWC, TNSE, TNSM, TVT, TCCN, OJ-COMS, TITS, IoTJ, ComMag, Wireless ComMag, Network, Computer Networks, Ad hoc Networks, Transportation Research Part C;
 
 ## Honors & Awards:
 
